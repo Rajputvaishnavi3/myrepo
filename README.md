@@ -1,2 +1,2 @@
 # myrepo
-my name is vaishnavi rajputt
+my name is vaishnavi rajput
